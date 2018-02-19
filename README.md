@@ -1,5 +1,8 @@
 # jdownloader-client
 
+[![npm](https://img.shields.io/npm/v/jdownloader-client.svg?style=flat-square)](https://www.npmjs.com/package/jdownloader-client)
+[![docs](https://img.shields.io/badge/docs-typedoc-green.svg?style=flat-square)](https://danielramosacosta.github.io/jdownloader-client/)
+
 Node.js JDownloader client, written in TypeScript based in [jdownloader-api](https://www.npmjs.com/package/jdownloader-api).
 
 ## Installation
