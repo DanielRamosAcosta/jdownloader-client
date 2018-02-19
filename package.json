@@ -19,7 +19,6 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "build:cjs": "tsc --watch",
     "compile:cjs": "tsc -p ./tsconfig/tsconfig.cjs.json",
     "compile:esm5": "tsc -p ./tsconfig/tsconfig.esm5.json",
     "compile:esm2015": "tsc -p ./tsconfig/tsconfig.esm2015.json",
